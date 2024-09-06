@@ -1,5 +1,10 @@
 Enhancing Neural Machine Translation with Attention Mechanism: Implementation and GUI Integration
 
+Encoder and Decoder architecture with attention mechanism:
+
+![image](https://github.com/user-attachments/assets/e00a4889-0e05-4cb9-8496-a61ad1e16cb0)
+
+
 GUI Results:
  
 ![image](https://github.com/user-attachments/assets/35d520f0-8f66-4363-a577-571c9e532604)
